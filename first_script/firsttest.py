@@ -51,3 +51,28 @@ finally:
     # Close the browser
     driver.quit()
 
+'''
+
+find_element vs find_elements
+
+find_element() - returns single webelement
+find_elements() - returns multiple 
+
+find_element() - returns single webelement we can use send keys
+find_elements() - even if there is only one element we cant use send keys cause it will return the output as list collection
+
+find_element() - returns NoSuchElementException if element not available
+find_elements() - returns empty list or nothing if no such element is there
+
+'''
+
+
+'''
+
+text vs get_attribute('value')
+
+text - just gives the inner text
+get_attribute - gives whatever displayed or the name of the value or id or name
+
+
+'''
