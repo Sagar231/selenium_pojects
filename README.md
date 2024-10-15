@@ -1,2 +1,2 @@
 # selenium_pojects
-Contains few selenium projects
+Contains few selenium python projects
