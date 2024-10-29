@@ -1,3 +1,3 @@
 # selenium_pojects
 Contains few selenium python projects
-for browser automation
+for browser automation and testing
